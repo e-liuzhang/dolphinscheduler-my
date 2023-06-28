@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 28 11:13:49 CST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-fffe-30e0-000011b66250 
+on database directory memory:/Users/liuzhang/Study/dolphinscheduler-2.0.5/c06dda7a-449a-44ed-a74f-04ab00674710 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/liuzhang/myApplication/maven/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_301-b09
+user.dir=/Users/liuzhang/Study/dolphinscheduler-2.0.5
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
